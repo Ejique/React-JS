@@ -1,12 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';//
 import './index.css';
-import App from './App';
+//import App from './App';
+import Gallery from "./Gallery/gallery";
 
 
 ReactDOM.render(
   
-    <App />,
+    <Gallery />,
  
   document.getElementById('root')
 );

@@ -1,3 +1,8 @@
+/* blog с галереей, верстка аккуратнее, popup библиотека, лайкать и добавлять в страницу "избранное"
+в блоге есть лента постов
+есть возможность перейти в отдельный пост и читать его, роутинг (кажд компонент),
+проведить деплой */
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
